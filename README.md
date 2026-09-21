@@ -164,6 +164,7 @@ Agents drive Orca too — script every workflow with `orca worktree create`, `sn
 - **[Rich repo previews](https://www.onorca.dev/docs/editing/markdown)** — Preview Markdown, images, PDFs, and repo docs in the workspace.
 - **[Computer Use](https://www.onorca.dev/docs/cli/computer-use)** — Let agents operate desktop apps and visible UI when a workflow needs real interaction.
 - **[Notifications and unread state](https://www.onorca.dev/docs/notifications)** — Know when an agent finishes or needs attention, then mark threads unread to come back later.
+- **[Feature guide (中文)](docs/readme/feature-guide.zh-CN.md)** — A chapter-by-chapter tour of everything above, in Simplified Chinese.
 - **And many, many more** — we ship daily, so this list is perpetually behind. The [changelog](https://github.com/stablyai/orca/releases) is the real feature list.
 
 ---

@@ -164,6 +164,7 @@ VS Code 的编辑器，处处自动保存 — 把文件或图片直接拖入智�
 - **[丰富仓库预览](https://www.onorca.dev/docs/editing/markdown)** — 在工作区中预览 Markdown、图片、PDF 和仓库文档。
 - **[Computer Use](https://www.onorca.dev/docs/cli/computer-use)** — 当工作流需要真实交互时，让智能体操作桌面应用和可见 UI。
 - **[通知与未读状态](https://www.onorca.dev/docs/notifications)** — 第一时间知道智能体何时完成或需要关注，并可将会话标记为未读，稍后再回来处理。
+- **[完整功能文档](feature-guide.zh-CN.md)** — 逐章展开上面每一项能力，含核心模型、评审流程、远程运行模式、CLI 与编排。
 - **还有很多很多** — 我们每天发布新功能，这个列表永远跟不上。[更新日志](https://github.com/stablyai/orca/releases)才是真正的功能列表。
 
 ---
